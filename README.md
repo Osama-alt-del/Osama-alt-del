@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering (Honours) Student at the University of Adelaide.<br><br>
+Software Engineering (Honours) Student at the University of Adelaide, passionate about learning new things and improoving my software engineering skills! <br><br>
 
 
 ## 🌐 Socials:
