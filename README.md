@@ -13,6 +13,5 @@ Software Engineering (Honours) Student at the University of Adelaide.<br><br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Osama-alt-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Osama-alt-del&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
